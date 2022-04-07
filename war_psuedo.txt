@@ -1,0 +1,12 @@
+at_war = True
+
+while at_war:
+    if One > Two:
+          Add Cards to One
+          at_war = False
+     elif One < Two:
+         add cards to Two
+         at_war = False
+     else:
+         check if players have enough cards
+         draw additional cards
